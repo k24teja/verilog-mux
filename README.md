@@ -19,8 +19,11 @@ A multiplexer selects one input from multiple inputs based on select lines and f
 
 ##  Project Structure
 mux/
+
 ├── Mux_2.v
+
 ├── mux_4.v
+
 └── README.md
 
 ---
